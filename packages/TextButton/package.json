@@ -26,8 +26,8 @@
     "typescript": "^3.8.3"
   },
   "dependencies": {
-    "my-awesome-lib-button": "^1.10.0",
-    "my-awesome-lib-text": "^1.14.0"
+    "@mat-sf/my-awesome-lib-button": "^1.10.0",
+    "@mat-sf/my-awesome-lib-text": "^1.16.0"
   },
   "gitHead": "7179dd471fcb2493c9b50237b6f9308ca8c0be6a",
   "publishConfig": {
