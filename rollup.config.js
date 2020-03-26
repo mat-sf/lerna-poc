@@ -9,7 +9,8 @@ export default () => [
       file: "./lib/index.js",
       format: "cjs"
     },
-    plugins: [typescript()]
+    plugins: [typescript()],
+    external: ["react", "react-dom", "styled-components"]
   },
   {
     input: "src/index.ts",

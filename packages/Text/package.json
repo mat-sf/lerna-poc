@@ -6,7 +6,7 @@
   "types": "./lib/index.d.ts",
   "scripts": {
     "build-package": "rollup --config",
-    "prepare": "npm run build-package"
+    "prepublishOnly": "npm run build-package"
   },
   "keywords": [],
   "author": "",
@@ -27,5 +27,5 @@
     "styled-components": "^5.0.1",
     "typescript": "^3.8.3"
   },
-  "gitHead": "4b9a70a53278319077506ac37711348bb363697f"
+  "gitHead": "9069cc3a4515d1899a21ffb83e5bdc54c415db1e"
 }
