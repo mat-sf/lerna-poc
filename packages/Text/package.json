@@ -23,5 +23,11 @@
     "styled-components": "^5.0.1",
     "typescript": "^3.8.3"
   },
-  "gitHead": "e19006c0a7e3696ea05f049b0a9eea49cdf34324"
+  "gitHead": "e19006c0a7e3696ea05f049b0a9eea49cdf34324",
+  "dependencies": {
+    "@types/react": "^16.9.25",
+    "@types/react-dom": "^16.9.5",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
 }
