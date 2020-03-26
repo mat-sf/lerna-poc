@@ -29,5 +29,12 @@
     "my-awesome-lib-button": "^1.10.0",
     "my-awesome-lib-text": "^1.14.0"
   },
-  "gitHead": "3304dbb4ce1e96b31f81ca8b939bfdb6d67bd71a"
+  "gitHead": "7179dd471fcb2493c9b50237b6f9308ca8c0be6a",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@github.com/mat-sf/lerna-poc.git"
+  }
 }
