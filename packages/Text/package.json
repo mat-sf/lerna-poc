@@ -1,5 +1,5 @@
 {
-  "name": "my-awesome-lib-text",
+  "name": "@mat-sf/my-awesome-lib-text",
   "version": "1.14.0",
   "description": "",
   "main": "./lib/index.js",

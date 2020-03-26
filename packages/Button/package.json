@@ -1,5 +1,5 @@
 {
-  "name": "my-awesome-lib-button",
+  "name": "@mat-sf/my-awesome-lib-button",
   "version": "1.10.0",
   "description": "",
   "main": "./lib/index.js",

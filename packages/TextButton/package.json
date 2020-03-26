@@ -1,5 +1,5 @@
 {
-  "name": "my-awesome-lib-text-button",
+  "name": "@mat-sf/my-awesome-lib-text-button",
   "version": "1.16.0",
   "description": "",
   "main": "./lib/index.js",
@@ -29,5 +29,5 @@
     "my-awesome-lib-button": "^1.10.0",
     "my-awesome-lib-text": "^1.14.0"
   },
-  "gitHead": "d1be65730ab34aaf3aae42d0a2535d669665a643"
+  "gitHead": "3304dbb4ce1e96b31f81ca8b939bfdb6d67bd71a"
 }
