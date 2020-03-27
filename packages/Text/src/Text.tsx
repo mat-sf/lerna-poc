@@ -4,7 +4,7 @@ import styled from "styled-components";
 
 const StyledParagraph = styled.p`
   color: ${props => props?.theme?.main || "green"};
-  font-size: 25px;
+  font-size: 26px;
 `;
 
 export const Text = ({ children }: TextProps) => {
