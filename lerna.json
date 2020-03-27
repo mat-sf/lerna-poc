@@ -5,5 +5,7 @@
       "registry": "https://npm.pkg.github.com"
     }
   },
+  "npmClient": "yarn",
+  "useWorkspaces": true,
   "version": "independent"
 }
