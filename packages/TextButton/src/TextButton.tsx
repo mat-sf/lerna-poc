@@ -1,6 +1,6 @@
 import React from "react";
-import { Button } from "my-awesome-lib-button";
-import { Text } from "my-awesome-lib-text";
+import { Button } from "@mat-sf/my-awesome-lib-button";
+import { Text } from "@mat-sf/my-awesome-lib-text";
 
 export const TextButton = () => {
   return (

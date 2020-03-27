@@ -25,7 +25,7 @@
     "rollup-plugin-typescript2": "^0.26.0",
     "typescript": "^3.8.3"
   },
-  "gitHead": "3bdfcffe312485f9d298c30eca85811cdc5ee158",
+  "gitHead": "c2598ffdea5e6176c59fdb8575460fcf86824552",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   },

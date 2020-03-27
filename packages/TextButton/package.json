@@ -29,7 +29,7 @@
     "@mat-sf/my-awesome-lib-button": "^1.13.0",
     "@mat-sf/my-awesome-lib-text": "^1.19.0"
   },
-  "gitHead": "7179dd471fcb2493c9b50237b6f9308ca8c0be6a",
+  "gitHead": "c2598ffdea5e6176c59fdb8575460fcf86824552",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   },
