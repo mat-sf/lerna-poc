@@ -1,6 +1,6 @@
 {
   "name": "@mat-sf/my-awesome-lib-text-button",
-  "version": "1.20.0",
+  "version": "1.21.0",
   "description": "",
   "main": "./lib/index.js",
   "types": "./lib/index.d.ts",
@@ -26,8 +26,8 @@
     "typescript": "^3.8.3"
   },
   "dependencies": {
-    "@mat-sf/my-awesome-lib-button": "^1.12.0",
-    "@mat-sf/my-awesome-lib-text": "^1.18.0"
+    "@mat-sf/my-awesome-lib-button": "^1.13.0",
+    "@mat-sf/my-awesome-lib-text": "^1.19.0"
   },
   "gitHead": "7179dd471fcb2493c9b50237b6f9308ca8c0be6a",
   "publishConfig": {
